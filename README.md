@@ -134,6 +134,4 @@ MIT License – Free to use, modify, and redistribute with attribution.
 
 ## 👨‍💻 Author
 
-Developed by [Your Name or GitHub Handle].
-
-If this toolkit supports your research, please cite it or link the repository in your publication.
+Developed by Shuangjie Zhao.
