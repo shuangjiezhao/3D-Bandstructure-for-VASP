@@ -131,7 +131,3 @@ Also requires:
 MIT License – Free to use, modify, and redistribute with attribution.
 
 ---
-
-## 👨‍💻 Author
-
-Developed by Shuangjie Zhao.
